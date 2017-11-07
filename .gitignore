@@ -1,0 +1,21 @@
+# Backups
+*~
+
+# Byte-compiled / optimized / DLL files (Python)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Data files
+*.avi
+*.csv
+
+# Neural net models
+*.tflearn
+*.index
+*.meta
+*.h5
+*.data-00000-of-00001

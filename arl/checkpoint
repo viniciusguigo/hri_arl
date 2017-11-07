@@ -1,0 +1,2 @@
+model_checkpoint_path: "test_att_ddpg_critic.tflearn"
+all_model_checkpoint_paths: "test_att_ddpg_critic.tflearn"
